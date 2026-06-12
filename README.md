@@ -9,10 +9,11 @@ API REST desenvolvida em Node.js com Express para gerenciar o cadastro de **pets
 ---
 
 ## 👥 Integrantes da Equipe
-- Nome do Integrante 1
-- Nome do Integrante 2
-- Nome do Integrante 3
-
+-Júlia das Neves
+-Alexandre Brito 
+-Freson Rafael
+-Murilo de Assis
+-Luma Cristina
 ---
 
 ## 📦 Entidades do Sistema
