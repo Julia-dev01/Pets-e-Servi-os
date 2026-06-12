@@ -142,11 +142,6 @@ petshop-api/
 
 ---
 
-## 🔗 Repositório GitHub
-[https://github.com/seu-usuario/petshop-api](https://github.com/seu-usuario/petshop-api)
-
----
-
 ## 🧪 Testes no Postman
 Os testes foram realizados cobrindo todos os métodos HTTP:
 - ✅ GET — Listagem e busca por ID
